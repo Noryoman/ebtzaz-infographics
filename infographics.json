@@ -1,6 +1,52 @@
 [
   {
-    "title": " تطبيق كاشف الأرقام",
-    "image": "https://raw.githubusercontent.com/Noryoman/ebtzaz-infographics/main/images/تطبيق%20كاشف.jfif"
+    "title_ar": "التحكم بإعلانات Google",
+    "title_en": "Google Ads Control",
+    "image": "https://raw.githubusercontent.com/Noryoman/ebtzaz-infographics/main/images/google-ads-control.jfif"
+  },
+  {
+    "title_ar": "رقم IMEI",
+    "title_en": "IMEI Number",
+    "image": "https://raw.githubusercontent.com/Noryoman/ebtzaz-infographics/main/images/imei-number.png"
+  },
+  {
+    "title_ar": "الاحتيال الصوتي",
+    "title_en": "Voice Scam",
+    "image": "https://raw.githubusercontent.com/Noryoman/ebtzaz-infographics/main/images/voice-scam.jfif"
+  },
+  {
+    "title_ar": "خطر VPN المجاني",
+    "title_en": "VPN Awareness",
+    "image": "https://raw.githubusercontent.com/Noryoman/ebtzaz-infographics/main/images/vpn-awareness.jfif"
+  },
+  {
+    "title_ar": "التجديد التلقائي للبطاقات",
+    "title_en": "Auto Renewal Cards",
+    "image": "https://raw.githubusercontent.com/Noryoman/ebtzaz-infographics/main/images/auto-renewal-cards.jfif"
+  },
+  {
+    "title_ar": "حماية حسابات العمل",
+    "title_en": "Business Account Security",
+    "image": "https://raw.githubusercontent.com/Noryoman/ebtzaz-infographics/main/images/business-account-security.jfif"
+  },
+  {
+    "title_ar": "الأجهزة المرتبطة بجيميل",
+    "title_en": "Gmail Linked Devices",
+    "image": "https://raw.githubusercontent.com/Noryoman/ebtzaz-infographics/main/images/gmail-linked-devices.jfif"
+  },
+  {
+    "title_ar": "نشاط Google",
+    "title_en": "Google Activity",
+    "image": "https://raw.githubusercontent.com/Noryoman/ebtzaz-infographics/main/images/google-activity.jfif"
+  },
+  {
+    "title_ar": "الابتزاز الإلكتروني",
+    "title_en": "Cyber Extortion",
+    "image": "https://raw.githubusercontent.com/Noryoman/ebtzaz-infographics/main/images/cyber-extortion.jfif"
+  },
+  {
+    "title_ar": "تطبيق كاشف",
+    "title_en": "Kashif App",
+    "image": "https://raw.githubusercontent.com/Noryoman/ebtzaz-infographics/main/images/kashif-app.jfif"
   }
 ]
